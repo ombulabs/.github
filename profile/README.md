@@ -1,3 +1,13 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ombulabs/.github/blob/main/OmbuLabs_dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ombulabs/.github/blob/main/OmbuLabs_light.png">
+  <img alt="Shows dark version of OmbuLabs logo in dark mode and light version in light mode" src="https://github.com/ombulabs/.github/blob/main/OmbuLabs_light.png">
+</picture>
+
+---
+
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ombulabs)
+
 # Welcome to OmbuLabs' GitHub!
 
 OmbuLabs is Philadelphia's lean software boutique. We specialize in minimum product development, Ruby, Rails, and JavaScript. This is where we keep all of our private work. 
